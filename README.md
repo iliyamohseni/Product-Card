@@ -1,6 +1,6 @@
 # 🐱 Cat Profile
 
-A simple and interactive cat profile card built with **HTML, CSS, and JavaScript**.
+A simple product card built with HTML and CSS.
 
 ## 🌐 Live Demo
 
@@ -10,7 +10,6 @@ A simple and interactive cat profile card built with **HTML, CSS, and JavaScript
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## 📸 Preview
 
