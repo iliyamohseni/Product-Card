@@ -1,4 +1,4 @@
-# 🐱 Cat Profile
+# Product card
 
 A simple product card built with HTML and CSS.
 
